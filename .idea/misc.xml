@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/drawable/background.xml" value="0.106" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/drawable/recycler_divider.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_about.xml" value="0.234375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_beauty.xml" value="0.209375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_cart.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_construction.xml" value="0.209375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_faqs.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_fashion.xml" value="0.209375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_food.xml" value="0.209375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_login.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_main2.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_my_job.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_my_jobmain.xml" value="0.234375" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_orders.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_profile.xml" value="0.176" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_profile_xtra.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/category_activity.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/custom_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/list_itemsmain.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/list_thin.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/main2.xml" value="0.4" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/main_2.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/my_job.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/layout/order_list.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/jfe4/app/src/main/res/xml/border.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

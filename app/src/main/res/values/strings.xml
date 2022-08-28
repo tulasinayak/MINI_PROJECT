@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">jfe</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="jfedata">
+        <item>Construction</item>
+        <item>Food</item>
+        <item>Fashion</item>
+        <item>Home Decor</item>
+
+    </string-array>
+</resources>

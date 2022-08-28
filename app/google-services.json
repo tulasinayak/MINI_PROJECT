@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111193175876",
+    "project_id": "jobforeveryone-39cc9",
+    "storage_bucket": "jobforeveryone-39cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111193175876:android:87deb4098ada41d0a18911",
+        "android_client_info": {
+          "package_name": "com.project.jfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111193175876-fitv7fr3s20dt9c6pdc3monu9mlshrgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpipfiP95fZleOXZyXFhVDR3VPf15X5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111193175876-fitv7fr3s20dt9c6pdc3monu9mlshrgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
